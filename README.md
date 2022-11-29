@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## My name is Anastasia
-## I'm a university student, currently taking business and commerce as my degree, majoring in analytics and finance
+#### My name is Anastasia
+#### I'm a university student studying business and commerce, majoring in analytics and finance
 
-## Thank you for coming to my page
+#### Thank you for coming to my page
 
-## Stay safe and healthy
+#### Stay safe and healthy
 
 <!--
 **Fluffy-Puffy/Fluffy-Puffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
